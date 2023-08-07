@@ -34,8 +34,6 @@ function Home01(props) {
             <Portfolio data={dataPortfolio} />
 
             <Project data={dataProject} />
-           
-            <Roadmap  data={dataRoadMap} />
 
             <Team data={dataTeam} />
 
